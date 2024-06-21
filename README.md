@@ -57,8 +57,6 @@ The generated index.html will include the following structure:
 </html>
 ```
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
 Zeshan Merchant
