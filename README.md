@@ -64,4 +64,4 @@ This project is licensed under the MIT License.
 Zeshan Merchant
 
 ## Published on npm
-This package is published on npm and can be found here.
+This package is published on npm and can be found [here](https://www.npmjs.com/package/create-html-css-js-temp).
