@@ -1,0 +1,15 @@
+{
+  "name": "create-html-css-js-temp",
+  "version": "1.0.37",
+  "description": "A CLI tool to create a web template with HTML, CSS, and JS files",
+  "main": "bootstrap.mjs",
+  "bin": {
+    "create-html-css-js-temp": "bootstrap.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "author": "Zeshan Merchant",
+  "license": "MIT"
+}
